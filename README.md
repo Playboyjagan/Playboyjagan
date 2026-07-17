@@ -1,12 +1,41 @@
-- 👋 Hi, I’m @Playboyjagan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Hi there 👋, I'm Jagannath
 
-<!---
-Playboyjagan/Playboyjagan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-Hi
-#hi
+## 🚀 About Me
+- 💻 Zoho Creator Developer
+- ⚡ Deluge Script Developer
+- 🌐 Full Stack Web Developer
+- 🎓 B.E. Computer Science & Engineering
+- 📍 Tamil Nadu, India
+
+## 🛠️ Skills
+- Zoho Creator
+- Deluge Script
+- HTML
+- CSS
+- JavaScript
+- PHP
+- MySQL
+- Python
+- Java
+- Git & GitHub
+
+## 📌 Currently Working On
+- Zoho Creator Applications
+- Workflow Automation
+- Business Process Automation
+- Dashboard Development
+- REST API Integration
+
+## 🌱 Currently Learning
+- Advanced Deluge
+- Zoho CRM
+- React.js
+- Node.js
+
+## 📫 Connect With Me
+- LinkedIn: https://linkedin.com/in/YOUR-LINK
+- Email: yourmail@example.com
+
+---
+
+⭐ Thanks for visiting my profile!
