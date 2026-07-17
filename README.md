@@ -33,8 +33,8 @@
 - Node.js
 
 ## 📫 Connect With Me
-- LinkedIn: https://linkedin.com/in/YOUR-LINK
-- Email: yourmail@example.com
+- LinkedIn: www.linkedin.com/in/jagannath-s-b90077373
+- Email: jaganjagannath100@gmail.com
 
 ---
 
